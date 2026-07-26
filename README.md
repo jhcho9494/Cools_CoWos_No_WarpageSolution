@@ -62,9 +62,10 @@ Potential engagement structures include patent licensing, process architecture t
 
 ## Contact
 
-For technical review, press enquiries, licensing, or joint development, please use the repository's [GitHub Issues](https://github.com/jhcho9494/Cools_CoWos_No_WarpageSolution/issues) page to leave a message for Cools Inc.
+**Dr. Jinhyun Cho — Founder & CEO, Cools Inc.**  
+Email: [jhcho@cools.co.kr](mailto:jhcho@cools.co.kr)
 
-A direct business email address can be added here later.
+For technical review, press enquiries, licensing, or joint development, please contact Cools directly by email. Messages may also be left through [GitHub Issues](https://github.com/jhcho9494/Cools_CoWos_No_WarpageSolution/issues).
 
 ## Notice
 
