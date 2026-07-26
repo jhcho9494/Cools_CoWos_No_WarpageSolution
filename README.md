@@ -60,6 +60,15 @@ Potential engagement structures include patent licensing, process architecture t
 - [Three-step press figure](assets/LATC_three_step_press_figure_KR.png)
 - [Conventional process versus LATC](assets/LATC_process_comparison_KR.png)
 
+## Contact
+
+**Dr. Jinhyun Cho — Founder & CEO, Cools Inc.**  
+Email: [jhcho@cools.co.kr](mailto:jhcho@cools.co.kr)  
+LinkedIn: [Jinhyun Cho](https://www.linkedin.com/in/jinhyun-cho-460280238/)  
+Website: [www.cools.co.kr](https://www.cools.co.kr)
+
+For technical review, press enquiries, licensing, and joint development, please contact Cools directly by email.
+
 ## Notice
 
 Publication of this repository does not grant any licence, implied right, or permission to practise the disclosed technology. All patent rights, pending application rights, technical materials, figures, and associated commercial rights are reserved by Cools Inc.
