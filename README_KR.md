@@ -60,6 +60,13 @@ LATC는 냉각장치를 보강하는 기술이 아니라 접합 순서 자체를
 - [3단계 기사 도면](assets/LATC_three_step_press_figure_KR.png)
 - [종래 공정과 LATC 비교도](assets/LATC_process_comparison_KR.png)
 
+## 문의
+
+**조진현 대표 · ㈜쿨스**  
+이메일: [jhcho@cools.co.kr](mailto:jhcho@cools.co.kr)
+
+기술 검토, 언론 문의, 라이선스 및 공동개발 관련 연락은 이메일로 보내주시기 바랍니다. [GitHub Issues](https://github.com/jhcho9494/Cools_CoWos_No_WarpageSolution/issues)를 통해 메시지를 남길 수도 있습니다.
+
 ## 권리 고지
 
 본 저장소의 공개는 어떠한 실시권, 묵시적 권리 또는 공개 기술의 실시 허락도 부여하지 않습니다. 특허권, 출원 중 권리, 기술자료, 도면 및 관련 사업상 권리는 모두 ㈜쿨스에 유보됩니다.
