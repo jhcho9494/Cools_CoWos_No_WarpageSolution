@@ -1,0 +1,67 @@
+# LATC — Large Area Thermal Clutch
+
+**Large-area advanced-packaging bonding architecture integrating planar constraint, joint-selective heating, solder solidification, and immediate conductive cooling.**
+
+[한국어](README_KR.md) · [中文](README_ZH.md)
+
+![LATC concept](assets/LATC_monolithic_lid_concept_KR.png)
+
+## What LATC changes
+
+Large-area interposer-to-substrate bonding is constrained by warpage generated during heating and cooling. Once solder solidifies, that deformation becomes locked into the package.
+
+LATC changes the sequence itself:
+
+1. The package is held flat by a monolithic lid or stiffening member.
+2. Energy is delivered selectively to the bonding interface.
+3. Immediately after solidification, the thermal path is switched to high-speed conductive cooling.
+
+The objective is not to flatten a package after warpage has formed. It is to prevent warpage from being locked in during the bonding interval.
+
+## Why the monolithic lid matters
+
+A segmented lid can follow an already warped package because each segment can move independently. A monolithic lid cannot absorb the curvature component in the same way.
+
+Cools therefore assesses that adoption of a monolithic lid is a strong indication that lid attachment has moved from a post-bonding operation into the bonding process itself.
+
+## TSMC and the observed architecture
+
+Publicly reported TSMC large-area package structures indicate a transition toward a monolithic lid architecture.
+
+Cools assesses that this change is difficult to reconcile with a process in which the lid is attached only after joint solidification. If the actual process attaches the lid during the bonding interval, the resulting process architecture may overlap with the bonding-sequence and thermal-path architecture claimed by Cools.
+
+This is an engineering inference based on publicly observable structure. It is not a confirmation of TSMC's non-public process sequence.
+
+## Cools patent position
+
+Cools has established three related patent families covering:
+
+- pre-solidification joining of the stiffening member;
+- wavelength-selective joint heating through the underside of the substrate; and
+- the integrated process combining both elements.
+
+These families comprise **150 claims**. An adjacent thermal-path-switching and pressurized-cooling portfolio comprises **4 filings and 137 claims**.
+
+## Global collaboration
+
+Cools plans to pursue technical review and joint-development discussions with Samsung Electronics, Intel, other global semiconductor and advanced-packaging companies, and relevant companies in China.
+
+Potential engagement structures include patent licensing, process architecture transfer, and joint process development.
+
+## Public technical briefs
+
+- [Korean public position brief](briefs/Cools_LATC_Public_Position_Brief_KR.docx)
+- [English public position brief](briefs/Cools_LATC_Public_Position_Brief_EN.docx)
+- [Chinese technical summary](briefs/Cools_LATC_Public_Position_Summary_ZH.md)
+
+## Figures
+
+- [Monolithic-lid concept](assets/LATC_monolithic_lid_concept_KR.png)
+- [Three-step press figure](assets/LATC_three_step_press_figure_KR.png)
+- [Conventional process versus LATC](assets/LATC_process_comparison_KR.png)
+
+## Notice
+
+Publication of this repository does not grant any licence, implied right, or permission to practise the disclosed technology. All patent rights, pending application rights, technical materials, figures, and associated commercial rights are reserved by Cools Inc.
+
+© 2026 Cools Inc. All rights reserved.
