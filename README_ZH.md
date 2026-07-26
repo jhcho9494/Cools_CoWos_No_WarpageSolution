@@ -60,6 +60,13 @@ Cools计划面向三星电子、英特尔及其他全球半导体与先进封装
 - [三阶段新闻图](assets/LATC_three_step_press_figure_KR.png)
 - [传统工序与LATC对比图](assets/LATC_process_comparison_KR.png)
 
+## 联系方式
+
+**赵镇贤（Jinhyun Cho）代表 · Cools Inc.**  
+电子邮箱：[jhcho@cools.co.kr](mailto:jhcho@cools.co.kr)
+
+如需进行技术评估、媒体采访、专利许可或联合开发，请直接发送电子邮件。也可通过[GitHub Issues](https://github.com/jhcho9494/Cools_CoWos_No_WarpageSolution/issues)留言。
+
 ## 权利声明
 
 本代码库的公开不授予任何许可、默示权利或实施所披露技术的权限。所有专利权、申请中权利、技术资料、图示及相关商业权利均由Cools Inc.保留。
