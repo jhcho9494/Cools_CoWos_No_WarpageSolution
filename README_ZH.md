@@ -6,6 +6,18 @@
 
 ![LATC概念图](assets/LATC_monolithic_lid_concept_KR.png)
 
+## Rubin Ultra 四芯粒级应用
+
+**LATC 为在传统大面积键合可能受到多方向翘曲、局部未接触及焊点不均匀限制的尺度上，实现四颗 GPU 计算芯粒单封装集成提供了一条制造路径。**
+
+行业报道曾将早期讨论中的 Rubin Ultra 四芯粒级方案与超大封装尺度及制造性限制联系起来。但 NVIDIA 并未公开确认任何产品架构调整是由翘曲直接造成。因此，Cools 将该案例作为基于公开行业信息的工程应用场景，而不是对 NVIDIA 非公开工艺历史的事实陈述。
+
+![Rubin Ultra 四芯粒 LATC 工艺路径](assets/Rubin_Ultra_4Die_LATC_process_route.svg)
+
+LATC 在焊料凝固全过程保持一体式平面约束，仅对键合界面进行选择性加热，并在凝固后立即切换至高速传导冷却。其目的，是防止四芯粒封装的几何形态在翘曲状态下被锁定。
+
+**技术说明：** [面向 Rubin Ultra 四芯粒级封装的 LATC 工艺路径](briefs/Rubin_Ultra_4Die_LATC_ZH.md)
+
 ## LATC改变的是什么
 
 在大面积中介层与封装基板的键合过程中，封装体会因加热、冷却及材料热膨胀差异而产生翘曲。焊料一旦凝固，该变形便会被锁定在封装结构中。
@@ -50,12 +62,14 @@ Cools计划面向三星电子、英特尔及其他全球半导体与先进封装
 
 ## 公开技术资料
 
+- [Rubin Ultra 四芯粒 LATC 技术说明](briefs/Rubin_Ultra_4Die_LATC_ZH.md)
 - [韩文公开技术立场文件](briefs/Cools_LATC_Public_Position_Brief_KR.docx)
 - [英文公开技术立场文件](briefs/Cools_LATC_Public_Position_Brief_EN.docx)
 - [中文技术摘要](briefs/Cools_LATC_Public_Position_Summary_ZH.md)
 
 ## 图示
 
+- [Rubin Ultra 四芯粒 LATC 工艺路径](assets/Rubin_Ultra_4Die_LATC_process_route.svg)
 - [一体式上盖核心概念图](assets/LATC_monolithic_lid_concept_KR.png)
 - [三阶段新闻图](assets/LATC_three_step_press_figure_KR.png)
 - [传统工序与LATC对比图](assets/LATC_process_comparison_KR.png)
