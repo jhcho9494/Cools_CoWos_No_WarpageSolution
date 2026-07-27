@@ -6,6 +6,18 @@
 
 ![LATC concept](assets/LATC_monolithic_lid_concept_KR.png)
 
+## Rubin Ultra 4-die-class application
+
+**LATC provides a manufacturing route for restoring a single-package four-compute-die architecture at a scale where conventional large-area bonding can become limited by multidirectional warpage, local contact loss, and solder-joint nonuniformity.**
+
+Industry reporting has associated an originally discussed four-die Rubin Ultra-class configuration with extreme-scale packaging and manufacturability constraints, while NVIDIA has not publicly confirmed warpage as the reason for any architecture change. Cools therefore presents this as an engineering application scenario based on reported industry information—not as a statement of NVIDIA's confidential process history.
+
+![Rubin Ultra 4-die LATC process route](assets/Rubin_Ultra_4Die_LATC_process_route.svg)
+
+LATC maintains monolithic planar constraint through solder solidification, heats the bonding interface selectively, and switches immediately to high-speed conductive cooling. The objective is to prevent the four-die package geometry from being locked into a warped state.
+
+**Technical note:** [Rubin Ultra 4-Die-Class Packaging: A LATC Process Route](briefs/Rubin_Ultra_4Die_LATC_EN.md)
+
 ## What LATC changes
 
 Large-area interposer-to-substrate bonding is constrained by warpage generated during heating and cooling. Once solder solidifies, that deformation becomes locked into the package.
@@ -50,12 +62,14 @@ Potential engagement structures include patent licensing, process architecture t
 
 ## Public technical briefs
 
+- [Rubin Ultra 4-die LATC technical note](briefs/Rubin_Ultra_4Die_LATC_EN.md)
 - [Korean public position brief](briefs/Cools_LATC_Public_Position_Brief_KR.docx)
 - [English public position brief](briefs/Cools_LATC_Public_Position_Brief_EN.docx)
 - [Chinese technical summary](briefs/Cools_LATC_Public_Position_Summary_ZH.md)
 
 ## Figures
 
+- [Rubin Ultra 4-die LATC process route](assets/Rubin_Ultra_4Die_LATC_process_route.svg)
 - [Monolithic-lid concept](assets/LATC_monolithic_lid_concept_KR.png)
 - [Three-step press figure](assets/LATC_three_step_press_figure_KR.png)
 - [Conventional process versus LATC](assets/LATC_process_comparison_KR.png)
