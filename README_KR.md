@@ -6,6 +6,18 @@
 
 ![LATC 개념도](assets/LATC_monolithic_lid_concept_KR.png)
 
+## Rubin Ultra 4다이급 적용
+
+**LATC는 종래 대면적 접합이 다방향 워피지, 국부 미접촉 및 솔더 접합 불균일로 한계에 도달할 수 있는 영역에서 네 개의 GPU 컴퓨트 다이를 하나의 패키지에 집적하는 공정 경로를 제공합니다.**
+
+업계 보도에서는 당초 논의된 Rubin Ultra급 4다이 구성이 극대면적 패키징 및 제조성 제약과 연결되어 언급됐습니다. 다만 NVIDIA가 제품 아키텍처 변경 원인을 워피지라고 공식 확인한 것은 아닙니다. 따라서 쿨스는 이를 NVIDIA의 비공개 공정에 대한 사실 주장으로 제시하지 않고, 공개된 업계 정보에 기초한 공학적 적용 시나리오로 제시합니다.
+
+![Rubin Ultra 4다이 LATC 공정 경로](assets/Rubin_Ultra_4Die_LATC_process_route.svg)
+
+LATC는 일체형 평탄 구속을 솔더 응고까지 유지하고, 접합 계면만 선택적으로 가열한 뒤 즉시 고속 전도냉각으로 전환합니다. 목적은 4다이 패키지 형상이 휘어진 상태로 고착되는 것을 방지하는 것입니다.
+
+**기술노트:** [Rubin Ultra 4다이급 패키지를 위한 LATC 공정 경로](briefs/Rubin_Ultra_4Die_LATC_KR.md)
+
 ## LATC가 바꾸는 것
 
 대면적 인터포저–기판 접합에서는 가열과 냉각 과정에서 워피지가 발생하고, 솔더가 응고되면 그 변형이 패키지에 고착됩니다.
@@ -50,12 +62,14 @@ LATC는 냉각장치를 보강하는 기술이 아니라 접합 순서 자체를
 
 ## 공개 기술자료
 
+- [Rubin Ultra 4다이 LATC 기술노트](briefs/Rubin_Ultra_4Die_LATC_KR.md)
 - [국문 공개 기술 견해서](briefs/Cools_LATC_Public_Position_Brief_KR.docx)
 - [영문 공개 기술 견해서](briefs/Cools_LATC_Public_Position_Brief_EN.docx)
 - [중문 기술 요약](briefs/Cools_LATC_Public_Position_Summary_ZH.md)
 
 ## 도면
 
+- [Rubin Ultra 4다이 LATC 공정 경로](assets/Rubin_Ultra_4Die_LATC_process_route.svg)
 - [일체형 리드 핵심 개념도](assets/LATC_monolithic_lid_concept_KR.png)
 - [3단계 기사 도면](assets/LATC_three_step_press_figure_KR.png)
 - [종래 공정과 LATC 비교도](assets/LATC_process_comparison_KR.png)
