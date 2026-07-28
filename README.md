@@ -68,6 +68,23 @@ Cools plans to pursue technical review and joint-development discussions with Sa
 
 Potential engagement structures include patent licensing, process architecture transfer, and joint process development.
 
+## Intellectual property and transaction options
+
+The technologies, process architectures, figures, and implementation concepts described in this repository are protected, as applicable, by granted patents, pending patent applications, and proprietary know-how of Cools Inc.
+
+Cools is open to structured discussions with qualified strategic partners. Depending on the technology, field, territory, and transaction scope, potential structures may include:
+
+- exclusive or non-exclusive patent licensing;
+- field-of-use or territory-limited rights;
+- process-architecture transfer and technical support;
+- joint development and commercialization;
+- strategic investment or transfer of the relevant technology business; and
+- where commercially appropriate, assignment or transfer of the relevant patents, patent applications, and associated rights themselves.
+
+**Negotiations are not limited to a licence. Where the transaction purpose and conditions are appropriate, the relevant patent portfolio itself may be included in the transaction.**
+
+Any transaction is subject to technical and legal due diligence and a definitive written agreement.
+
 ## Public technical briefs
 
 - [Rubin Ultra 4-die LATC technical note](briefs/Rubin_Ultra_4Die_LATC_EN.md)
@@ -87,7 +104,7 @@ Potential engagement structures include patent licensing, process architecture t
 **Dr. Jinhyun Cho — Founder & CEO, Cools Inc.**  
 Email: [jhcho@cools.co.kr](mailto:jhcho@cools.co.kr)
 
-For technical review, press enquiries, licensing, or joint development, please contact Cools directly by email. Messages may also be left through [GitHub Issues](https://github.com/jhcho9494/Cools_CoWos_No_WarpageSolution/issues).
+For technical review, press enquiries, licensing, patent-inclusive transactions, technology transfer, or joint development, please contact Cools directly by email. Messages may also be left through [GitHub Issues](https://github.com/jhcho9494/Cools_CoWos_No_WarpageSolution/issues).
 
 ## Notice
 
