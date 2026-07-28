@@ -54,13 +54,13 @@ Cools has established three related patent families covering:
 
 These families comprise **150 claims**. An adjacent thermal-path-switching and pressurized-cooling portfolio comprises **4 filings and 137 claims**.
 
-## Adjacent glass-substrate platform — CoolVia
+## Related Cools technology — CoolVia
 
-Cools has also published a separate technical overview of **PEI/PEIE-based continuous metallization interfaces for through-glass vias and glass-core substrates**. This platform excludes molten-glass manufacturing and focuses on wet-process interface continuity, low-roughness adhesion, electroless copper seeding, and bottom-up filling.
+**CoolVia** is Cools' independent PEI/PEIE-enabled continuous metallization platform for through-glass vias and glass-core substrates.
 
-- [CoolVia English technical overview](CoolVia_PEIE_PEI_Glass_Substrate/README.md)
-- [CoolVia Korean technical overview](CoolVia_PEIE_PEI_Glass_Substrate/README_KO.md)
-- [CoolVia Chinese technical overview](CoolVia_PEIE_PEI_Glass_Substrate/README_ZH.md)
+- [CoolVia repository — English](https://github.com/jhcho9494/Cools_CoolVia_Glass_Metallization)
+- [CoolVia 기술자료 — 한국어](https://github.com/jhcho9494/Cools_CoolVia_Glass_Metallization/blob/main/README_KR.md)
+- [CoolVia 技术资料 — 中文](https://github.com/jhcho9494/Cools_CoolVia_Glass_Metallization/blob/main/README_ZH.md)
 
 ## Global collaboration
 
