@@ -1,3 +1,21 @@
+# 🔒 Patent-Protected Technology · 🤝 Open to Technology Transactions
+
+> **한국어**  
+> 본 저장소를 포함하여 Cools가 공개하는 모든 핵심 기술은 **등록특허 및 출원 중 특허로 보호되고 있습니다.** 공개는 기술사용 허락을 의미하지 않습니다. 그러나 Cools는 기술을 폐쇄적으로 묶어두지 않습니다. **기업 규모·국가·기관 형태와 관계없이 기술도입, 특허 라이선스, 특허양도, 공동개발, 제조협력 및 사업화 제안을 적극 환영합니다.**  
+> **무단 사용에는 단호하게 대응하고, 정당한 기술거래에는 누구에게나 문을 엽니다. 기술이 필요하다면 우회하거나 모방하지 말고 Cools와 직접 거래하십시오.**
+>
+> **English**  
+> All core technologies disclosed by Cools, including those presented in this repository, are **protected by granted patents and pending patent applications.** Public disclosure does not constitute permission to use the technology. At the same time, Cools does not intend to keep valuable technology locked away. **We actively welcome technology adoption, patent licensing, patent assignment, joint development, manufacturing collaboration, and commercialization proposals from companies, institutions, and partners worldwide.**  
+> **Unauthorized use will be addressed firmly. Legitimate technology transactions are welcome from everyone. If you need the technology, do not work around it or imitate it—deal directly with Cools.**
+>
+> **中文**  
+> Cools公开的所有核心技术，包括本代码库所展示的技术，均受到**已授权专利及在审专利申请的保护。** 技术公开不代表授予任何实施许可。同时，Cools并不希望让有价值的技术被封闭闲置。**无论企业规模、国家或机构类型，我们均积极欢迎技术导入、专利许可、专利转让、联合开发、制造合作及商业化提案。**  
+> **对于未经授权的使用，我们将坚决应对；对于正当的技术交易，我们向所有合作方开放。需要该技术，请勿规避或模仿，请直接与Cools洽谈。**
+
+### **Protected Technology. Open for Business. · 특허로 보호하고, 기술거래에는 완전히 열려 있습니다. · 专利保护，交易开放。**
+
+---
+
 # LATC — Large Area Thermal Clutch
 
 **Large-area advanced-packaging bonding architecture integrating planar constraint, joint-selective heating, solder solidification, and immediate conductive cooling.**
